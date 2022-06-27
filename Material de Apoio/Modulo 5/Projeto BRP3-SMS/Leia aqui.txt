@@ -1,0 +1,39 @@
+Atualizado em 09/04/2021
+
+Este é o material de apoio para o Módulo BRP3-SMS
+Uma breve descrição do que tem em cada diretorio
+
+====================
+#Circuito Fenolite para impressão
+ -> Caso deseje montar o seu protótipo funcional, imprima o arquino .docs em uma folha A4 e utilize como referencia na sua montagem, assim facilitará na hora de organizar os componentes na placa. O desenho do circuito está em 3 formatos, .jpg (imagem)  .docx (impressão A4)  .psd (Photoshop)
+
+====================
+#Contatos Empresas de Apoio
+ -> Contatos de algumas empresas que poderão te auxiliar na transformação do seu projeto funcional em um projeto real.
+
+
+====================
+#Custo Aprox Produção
+ -> Planilha com os custos da época da montagem (Março/2021), utilizando como base o preço no Mercado Livre e Eletrônica Local. O valor pode variar conforme a sua região.
+
+====================
+#Documentos AT&T - SIM900
+ -> Documentos para referencia na hora da comunicação com o Chip SIM, toda comunicação é feita por comando AT&T, utilize como referencia e estudo para adicionar ou melhorar recursos.
+
+====================
+#Esquemas de ligações
+ -> Faça as conexões conforme as imagens
+
+====================
+# Etiqueta Afesiva para Impressão
+ -> A mesma etiqueta está em 3 formatos, .jpg (imagem)  .docx (impressão A4)  .psd (Photoshop)
+
+====================
+#firmware_blackout
+ -> Arquivo com o sketch(código) criado no curso para gravar no seu arduino, ou utilizar como base de estudo.
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+
+LINK PARA INSTALAÇÃO DAS PLACAS DO ESP8266 NA IDE DO ARDUINO
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+
+
+LINK PARA CRIAR CONTATO PELO WHATSAPP
+https://wa.me/554799999999
+ - 55 é o código do Brasil
+ - 47 é o DDD (substitui pelo da sua cidade)
+ - 999999999 é o seu número WhatsApp 
+
+
+
